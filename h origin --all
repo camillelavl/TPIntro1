@@ -1,0 +1,11 @@
+[33mcommit 8fd27ca3c51104280d26cfc83688805e5c7882fe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: camillelavl <camille.lavilla@epfl.ch>
+Date:   Thu Feb 27 10:43:28 2025 +0100
+
+    Git ignore of .python-version
+
+[33mcommit 8f9aabff437381b65475a1fa13d9a326ce47d148[m
+Author: camillelavl <camille.lavilla@epfl.ch>
+Date:   Thu Feb 27 10:43:09 2025 +0100
+
+    first commit
